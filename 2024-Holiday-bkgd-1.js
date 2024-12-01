@@ -234,7 +234,7 @@ lib.properties = {
 	color: "#333333",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://raw.githubusercontent.com/ApprovalPage/PBand2024/refs/heads/main/_2024_Holiday_bkgd_1_atlas_1.jpg", id:"_2024_Holiday_bkgd_1_atlas_1"}
+		{src:"https://github.com/ApprovalPage/PBand2024/blob/main/_2024_Holiday_bkgd_1_atlas_1.jpg?raw=true", id:"_2024_Holiday_bkgd_1_atlas_1"}
 	],
 	preloads: []
 };
